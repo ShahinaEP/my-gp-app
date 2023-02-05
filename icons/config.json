@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "dcedf50ab1ede3283d7a6c70e2fe32f3",
+      "css": "chat",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "247b40e9512c7589063083e8ffff7854",
+      "css": "ring",
+      "code": 63243,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "3a6f0140c3a390bdb203f56d1bfdefcb",
+      "css": "gauge",
+      "code": 59393,
+      "src": "entypo"
+    },
+    {
+      "uid": "a6a5b2ea227f86157ba54ae543785161",
+      "css": "compass",
+      "code": 59394,
+      "src": "meteocons"
+    },
+    {
+      "uid": "5cc58545bb38c912940470480d3df145",
+      "css": "restaurant",
+      "code": 59442,
+      "src": "maki"
+    },
+    {
+      "uid": "5e5a88921aa39b292bdd56c3b9c923d3",
+      "css": "gift",
+      "code": 59395,
+      "src": "elusive"
+    },
+    {
+      "uid": "1748e31f171a4060d1b498bf3a1af254",
+      "css": "compass-circled",
+      "code": 59396,
+      "src": "elusive"
+    }
+  ]
+}
